@@ -6,11 +6,7 @@ public class FUtilApp {
     existe = FUtil.existe("RiegoParcela");
     System.out.println(existe);
 
-    existe = FUtil.existe("RiegoParcela.java");
+    existe = FUtil.existe("");
     System.out.println(existe);
-
-    existe = FUtil.existe("ListaNumerosApp");
-    System.out.println(existe);
-
   }
 }
